@@ -1,3 +1,2 @@
 numpy==1.13.3
 pandas==0.20.3
-python3-tk==8.6.7
